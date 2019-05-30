@@ -1,4 +1,4 @@
-(new-object System.Net.WebClient).DownloadFile('https://i.imgur.com/rjERfrL.jpg',"$Env:Temp\b.jpg");
+(new-object System.Net.WebClient).DownloadFile('https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzEwNC84MTkvb3JpZ2luYWwvY3V0ZS1raXR0ZW4uanBn',"$Env:Temp\b.jpg");
 Add-Type @"
 using System;
 using System.Runtime.InteropServices;
